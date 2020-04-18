@@ -24,3 +24,9 @@ Desc=Servidor Local | Modo:Alkon 0.13.X
 IP=localhost
 PJ=7666
 Mundo=Alkon
+
+[S5]
+Desc=Shaq server | Modo:Alkon 0.13.X
+IP=181.170.193.30
+PJ=7666
+Mundo=Alkon
